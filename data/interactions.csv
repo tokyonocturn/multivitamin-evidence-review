@@ -1,0 +1,25 @@
+id,interacting_pair,mechanism,clinical_effect,severity,management,source_ids
+calcium-iron,Calcium + iron,"Competitive divalent cation absorption",Lower iron absorption when taken together,Moderate,"Separate by 2 hours if treating iron deficiency. A combined multivitamin is acceptable when iron status is not the target.",R26
+iron-zinc,Iron (25 mg+) + zinc,"Competition at DMT1 and ZIP transporters",Reduced zinc absorption,Moderate,"Separate high-dose iron from zinc; a multivitamin with 18 mg iron and 11-15 mg zinc is a compromise.",R24
+zinc-copper,Zinc (50 mg/day) + copper,"Induced metallothionein binds copper in enterocytes","Copper deficiency, anaemia, neuropathy",High,"Keep zinc below 40 mg/day or add 1-2 mg copper. A 25 mg zinc multi should contain copper.",R24;R25
+vitamin-k-warfarin,Vitamin K + warfarin,"Direct antagonism of VKORC1",Unstable INR,High,"Keep vitamin K intake stable. Avoid starting or stopping K2 MK-7 without INR monitoring.",R27
+vitamin-e-anticoagulants,Vitamin E (400 IU+) + anticoagulants/antiplatelets,"Inhibition of vitamin K-dependent carboxylase; platelet effects",Bleeding risk,Moderate,"Standard multivitamin doses (15-30 mg) are not a concern; high-dose E should be avoided.",R29;R41
+vitamin-a-retinoids,Preformed vitamin A + isotretinoin/acitretin,"Additive retinoid toxicity",Teratogenicity and hepatotoxicity,High,"Avoid supplemental retinol with prescription retinoids.",R18;R21
+levothyroxine-minerals,Levothyroxine + calcium/iron/magnesium,"Chelation in the gut",Reduced levothyroxine absorption and worse TSH control,High,"Separate by at least 4 hours.",R26;R22
+ppi-b12,Proton pump inhibitors + vitamin B12,"Reduced gastric acid prevents release of food-bound B12",B12 deficiency with long-term use,Moderate,"Crystalline B12 in a multivitamin is absorbed without acid; monitor B12 if symptoms or long-term use.",R28
+ppi-iron,Proton pump inhibitors + iron,"Reduced acid impairs ferric iron reduction",Lower iron absorption,Moderate,"Use bisglycinate or take with vitamin C; treat deficiency with a dedicated course.",R26
+metformin-b12,Metformin + vitamin B12,"Reduced ileal calcium-dependent absorption",Lower B12 status,Moderate,"Periodic B12 measurement; a multivitamin may prevent but not treat deficiency.",R28
+folic-acid-methotrexate,Folic acid + methotrexate,"Folate antagonism (therapeutic for methotrexate)",Reduced drug effect at high folate doses,High,"Only with oncology guidance. Low-dose folic acid is used deliberately with low-dose methotrexate.",R40
+biotin-immunoassay,Biotin (5 mg+) + streptavidin-biotin lab assays,"Competitive interference",False low TSH and false troponin results,High,"Stop high-dose biotin 48-72 hours before tests; tell the laboratory.",R22;R30
+vitamin-c-iron,Vitamin C + iron,"Ascorbate reduces ferric to ferrous iron",Increased iron absorption,Low,"Beneficial in iron deficiency; a concern only in iron overload.",R26
+calcium-magnesium,Calcium + magnesium (high doses),"Competition at absorption",Modest reduction at high doses,Low,"Not clinically important at multivitamin doses.",R22
+zinc-antibiotics,Zinc/calcium/magnesium + tetracyclines/quinolones,"Chelation",Reduced antibiotic absorption,High,"Separate minerals from the antibiotic by 2-6 hours per labelling.",R24
+vitamin-c-warfarin,Vitamin C (1 g+) + warfarin,"Unclear; possible interference with warfarin metabolism",Reduced anticoagulant effect in case reports,Low,"Limit supplemental vitamin C to 1 g/day and monitor INR.",R27
+vitamin-a-warfarin,Vitamin A (high dose) + warfarin,"Additive effect on INR?",Increased bleeding risk in case reports,Low,"Avoid high-dose retinol; standard multivitamin doses are not a concern.",R18
+iron-tea-coffee,Iron + tea/coffee polyphenols,"Chelation of non-haem iron",Reduced iron absorption,Low,"Separate by 1-2 hours when treating deficiency.",R26
+multivitamin-warfarin,Multivitamin (K-containing) + warfarin,"Change in vitamin K intake",INR instability,Moderate,"Choose a consistent product or a K-free formula, and tell the anticoagulation service.",R27
+multivitamin-levothyroxine,Multivitamin + levothyroxine,"Calcium and iron chelation",Reduced levothyroxine absorption,High,"Take levothyroxine on an empty stomach, 4 hours apart from the multivitamin.",R26
+overlap-vitamin-d,Multivitamin + standalone vitamin D,"Additive dose","Approaching the 4,000 IU UL",Moderate,"Add every source. A 1,000 IU multi plus a 5,000 IU capsule is 6,000 IU.",R22
+overlap-b-complex,Multivitamin + B-complex,"Additive B6 and niacin",B6 above 100 mg or niacin above 35 mg,Moderate,"Check the sum. Two 'high-potency' products can exceed the UL for B6 and niacin.",R22
+overlap-zinc,Multivitamin + zinc lozenges/immune tablets,"Additive zinc",Copper deficiency and nausea,Moderate,"Short courses of lozenges are acceptable; chronic stacking is not.",R24
+overlap-iron,Multivitamin + iron tablet,"Additive iron",GI effects and overload,Moderate,"Only combine with a documented need and monitoring.",R26
