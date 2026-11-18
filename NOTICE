@@ -1,0 +1,36 @@
+Multivitamins: An Independent Evidence Review and Product Database
+Copyright (c) 2026 Kevin Edwards
+
+CONTENT LICENSE
+
+The text, data and generated tables in this repository are licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0).
+To view a copy of this license, visit:
+https://creativecommons.org/licenses/by/4.0/
+
+You are free to share and adapt the material for any purpose, provided you give
+appropriate credit, link to the license, and indicate if changes were made.
+
+CODE LICENSE
+
+The analysis code in `analysis/` is licensed under the MIT License. See LICENSE.
+
+MEDICAL DISCLAIMER
+
+This repository is a research and educational resource. It is not medical advice,
+diagnosis or treatment, and it does not create a clinician-patient relationship.
+
+Dietary supplements can interact with prescription medicines, are not appropriate
+for everyone, and can be harmful in specific populations. Nothing here should be
+used to start, stop or change any supplement, medicine or treatment without
+consulting a qualified healthcare professional.
+
+The authors are not responsible for any loss or damage arising from the use of
+this material. References are provided so that readers can consult the primary
+sources, which remain the authority.
+
+TRADEMARKS
+
+Product and brand names are the property of their respective owners and are used
+for identification only. Their inclusion does not imply endorsement, sponsorship,
+or any affiliation.

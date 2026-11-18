@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "Multivitamins: An Independent Evidence Review and Product Database"
+message: "If you use this review, cite it as below. It has not been peer reviewed."
+type: report
+authors:
+  - family-names: Edwards
+    given-names: Kevin
+date-released: 2026-11-18
+version: 1.0.0
+license: CC-BY-4.0
+repository-code: "https://github.com/tokyonocturn/multivitamin-evidence-review"
+keywords:
+  - multivitamin
+  - dietary supplements
+  - nutrition
+  - evidence review
+  - bioavailability
+  - upper intake level
+abstract: >-
+  A source-linked review of multivitamin and multimineral supplements covering
+  randomised evidence for mortality, cardiovascular disease, cancer, cognition,
+  immunity, energy and pregnancy; ingredient forms and bioavailability; upper
+  limits, toxicity and interactions; product quality and certification; and cost
+  per daily serving across 20 products.
