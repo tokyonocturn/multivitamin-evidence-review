@@ -75,9 +75,11 @@ bad for people who stack.
 
 ### Premium: $0.50-$1.50
 
-**Opti-Men — $0.60.** Three tablets per day. Vitamin A 3,000 mcg, niacin 75 mg,
-B6 50 mg, vitamin E 134 mg. This is a megadose product: it hits the vitamin A UL
-and more than doubles the niacin UL. The "amino acid blend" is not quantified.
+**Opti-Men — $0.60.** Three tablets per day. Vitamin A 3,000 mcg (as beta-carotene
+and mixed carotenoids), niacin 75 mg, B6 50 mg, vitamin E 134 mg. This is a
+megadose product: it more than doubles the niacin UL, and its vitamin A figure
+matches the preformed-retinol UL even though the label declares carotenoids. The
+"amino acid blend" is not quantified.
 
 **Garden of Life mykind Organics Women's Once Daily — $0.67.** USDA Organic,
 whole-food matrix, 2.5 mg iron, 3.9 mg zinc, no calcium or magnesium. The organic
