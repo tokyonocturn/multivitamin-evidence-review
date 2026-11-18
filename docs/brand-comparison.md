@@ -94,9 +94,10 @@ Contents Certified, 50 mcg D, methylfolate, 4 mg zinc, DHA 55 mg. The best-evide
 gummy format in the sample, but still a gummy: low minerals, added sugar, overage
 risk.
 
-**Ritual Essential for Women/Men 18+ — $1.25.** Nine nutrients, 50 mcg D, 5-MTHF,
-methylcobalamin, 90 mcg K2, DHA 330 mg, iron 8 mg (women) or zinc 11 mg (men).
-USP Verified. Deliberately minimal, transparent sourcing, expensive per nutrient.
+**Ritual Essential for Women/Men 18+ — $1.25.** Nine or ten nutrients, 50 mcg D,
+5-MTHF, methylcobalamin, 90 mcg K2, DHA 330 mg, iron 8 mg (women) or vitamin A
+180 mcg and zinc 2.4 mg (men). USP Verified. Deliberately minimal, transparent
+sourcing, expensive per nutrient.
 
 **Thorne Basic Nutrients 2/Day — $1.33.** NSF Certified for Sport, 25 nutrients,
 50 mcg D, 5-MTHF, methylcobalamin, 200 mcg K1 + 200 mcg MK-4, 200 mcg selenium,

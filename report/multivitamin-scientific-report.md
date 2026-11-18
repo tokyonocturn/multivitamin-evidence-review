@@ -155,9 +155,9 @@ expensive ones. Products with 9 nutrients can afford higher doses of each.
 
 The trade-off is visible in the sample. Garden of Life's whole-food tablet declares
 25 nutrients but supplies 2.5 mg iron, 3.9 mg zinc, no calcium and no magnesium,
-because the organic food blend takes up mass. Ritual declares 9 nutrients but
-supplies 50 mcg vitamin D, 1,000 mcg folate and 90 mcg K2. Neither approach is
-inherently better; they answer different questions.
+because the organic food blend takes up mass. Ritual's women's formula declares
+9 nutrients but supplies 50 mcg vitamin D, 1,000 mcg folate and 90 mcg K2.
+Neither approach is inherently better; they answer different questions.
 
 ### 4.2 The iron decision
 
@@ -348,7 +348,9 @@ Of 20 products, three exceed an adult UL for at least one nutrient:
 
 Six more reach 50-69% of a UL for at least one nutrient (zinc, niacin, vitamin D).
 That is not automatically a reason to avoid them, but it is a reason to check what
-else the person is taking.
+else the person is taking. Opti-Men's vitamin A is declared as beta-carotene and
+mixed carotenoids, so its 100% figure is an upper bound rather than a preformed
+retinol exposure.
 
 ### 6.3 Worked example: the "immune stack"
 
@@ -926,7 +928,7 @@ appropriate. They are not a recommendation to start.
 | Infection (older adults) | Mixed; largest trial OR 0.92 (NS) | Low | No reliable benefit |
 | Fatigue | No association | Low | No benefit |
 | Neural tube defects | 72% reduction with folic acid | High | Benefit |
-| AMD progression (AREDS2) | OR 0.72 for intermediate AMD | Moderate | Benefit in AMD |
+| AMD progression (AREDS formula) | OR 0.72 for intermediate AMD | Moderate | Benefit in AMD |
 | Beta-carotene in smokers | Lung cancer RR 1.18-1.28 | High | Harm |
 | Vitamin E high dose | Prostate cancer HR 1.17 | Moderate | Harm |
 | Selenium 200 mcg | Diabetes RR 1.11 | Low | Possible harm |

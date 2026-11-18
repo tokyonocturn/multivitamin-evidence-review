@@ -75,12 +75,12 @@ Only the nutrients that most often differentiate formulas. A blank cell means th
 | One A Day Women's 50+ | 25 | 25 |  | 24 | 6 | 20 | folic acid | no |
 | Centrum Women MultiGummies | 25 | 9 |  | 2.5 | 2 |  | folic acid | no |
 | Life Extension One-Per-Day | 50 | 300 |  | 25 | 75 | 50 | L-5-MTHF | no |
-| Optimum Nutrition Opti-Men | 37.5 | 100 |  | 30 | 50 | 75 | folic acid | no |
+| Optimum Nutrition Opti-Men | 37.5 | 100 |  | 15 | 50 | 75 | folic acid | no |
 | Garden of Life mykind Organics Women's Once Daily | 25 | 5 | 2.5 | 3.9 | 8.5 | 18.4 | food folate | no |
 | Pure Encapsulations O.N.E. Multivitamin | 50 | 500 |  | 25 | 4 | 20 | L-5-MTHF | yes MK-7 |
 | SmartyPants Women's Multi & Omegas | 50 | 4 |  | 4 | 1.5 | 4 | L-methylfolate | no |
 | Ritual Essential for Women 18+ | 50 | 8 | 8 |  |  |  | 5-MTHF | yes MK-7 |
-| Ritual Essential for Men 18+ | 50 | 8 |  | 11 |  |  | 5-MTHF | yes MK-7 |
+| Ritual Essential for Men 18+ | 50 | 8 |  | 2.4 |  |  | 5-MTHF | yes MK-7 |
 | Thorne Basic Nutrients 2/Day | 50 | 600 |  | 15 | 20 | 80 | L-5-MTHF | yes MK-4 |
 | Huel Daily Greens | 46 | 5.6 | 5.5 | 15 | 3 | 21 | L-methylfolate | yes MK-7 |
 | Athletic Greens AG1 |  | 22 | 1 | 15 | 3 | 20 | 5-MTHF | no |
@@ -128,7 +128,7 @@ Mechanical checks against the upper limits in `data/upper_limits.csv` and agains
 | One A Day Women's 50+ | none |
 | Centrum Women MultiGummies | none |
 | Life Extension One-Per-Day | zinc 25 mg or more; zinc 15 mg+ without copper; vitamin B6 50 mg or more; niacin above the UL; vitamin A 1,500 mcg or more |
-| Optimum Nutrition Opti-Men | zinc 25 mg or more; vitamin B6 50 mg or more; niacin above the UL; vitamin A 1,500 mcg or more; 3+ units per serving |
+| Optimum Nutrition Opti-Men | vitamin B6 50 mg or more; niacin above the UL; vitamin A 1,500 mcg or more; 3+ units per serving |
 | Garden of Life mykind Organics Women's Once Daily | none |
 | Pure Encapsulations O.N.E. Multivitamin | zinc 25 mg or more; zinc 15 mg+ without copper |
 | SmartyPants Women's Multi & Omegas | 3+ units per serving |
